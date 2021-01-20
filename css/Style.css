@@ -1,0 +1,18 @@
+    body {
+        height: 842px;
+        width: 595px;
+        /* to centre page on screen*/
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .my-photo {
+        width: 325px;
+            float: right; /* Выравнивание по правому краю */
+            
+    }
+    content h3 {
+        top: 82px; /* Расстояние от верхнего края */
+        left: 170px; /* Расстояние от левого края */ 
+        bottom: 0; right: 0;
+        
